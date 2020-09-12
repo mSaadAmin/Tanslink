@@ -1,0 +1,21 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4CC22E",
+        "activityBar.activeBackground": "#F8F07C",
+        "activityBar.activeBorder": "#D0784E",
+        "activityBar.foreground": "#9E3737",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#D0784E",
+        "activityBarBadge.foreground": "#15202B",
+        "titleBar.activeBackground": "#512BA2",
+        "titleBar.inactiveBackground": "#512ba299",
+        "titleBar.activeForeground": "#E7E7E7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#4CC22E",
+        "statusBarItem.hoverBackground": "#F8F07C",
+        "statusBar.foreground": "#9E3737"
+    },
+    "peacock.color": "#512BA2",
+    "glassit-linux.opacity": 95,
+    "editor.wordWrap": "on"
+}

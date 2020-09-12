@@ -1,0 +1,70 @@
+login-form
+{
+  
+  max-width: 400px;
+  padding: 15px;
+  margin: auto;
+  height: 500px;
+  font-weight: bold;
+  margin-top: 100px; 
+  border: 1px solid black;
+  border-radius: 2%;
+  
+  box-shadow: 3px 3px 30px;
+}
+
+
+.header
+{
+  font-size: 2.5em;
+  text-align: center;
+}
+.footer
+{
+  color: black;
+}
+
+
+.name-inner
+{
+  margin: auto;
+  margin-left: 300px;
+  position: relative;
+}
+#head
+{
+  float: left;
+}
+.namebtn
+{
+  float: right;
+}
+
+.btn-name1
+{
+  margin-left: 200px;
+}
+.btn-name2
+{
+  margin-left: 20px;
+}
+
+.pass-inner
+{
+  margin: auto;
+  margin-left: 260px;
+  position: relative;
+}
+#pass{
+  text-align: left;
+}
+
+.table
+{
+    padding-top: 360px;
+}
+
+.scontainer
+{
+    padding-top: 50px;
+}

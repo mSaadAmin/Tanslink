@@ -1,0 +1,13 @@
+.filter{
+    position: fixed;
+    right: 150px;
+    top: 100px;
+
+}
+.credit{
+ font-size: 150px;
+ text-align: center;
+ vertical-align: center;
+ position: relative;
+ top: 150px;   
+}
